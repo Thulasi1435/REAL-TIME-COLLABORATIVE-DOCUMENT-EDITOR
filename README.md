@@ -1,16 +1,16 @@
 # Getting Started with Create React App
 
-COWPANY*: COOTECH IT SOLUTIONS
+COMPANY*: CODTECH IT SOLUTIONS
 
-NANE: MUZAMNIL AHNED
+NAME: V LAXMI THULASI
 
 INTERN ID：:CTO4DN1538
 
 DONMAIN: Full Stack Web Development.
 
-DURATION: 6 WEEEKS
+DURATION: 4 WEEEKS
 
-MENTOR*:NEELA SANTOSH
+MENTOR*:NEELA SANTHOSH KUMAR
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
